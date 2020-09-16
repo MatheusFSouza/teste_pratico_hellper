@@ -24,7 +24,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone <https://github.com/MatheusFSouza/teste_pratico_hellper>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Acesse a pasta do projeto no terminal powerShell do windows
 $ cd backend
 
 # Execute a aplicação uilizando
