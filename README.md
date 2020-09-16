@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#Sobre">Sobre</a> •
  <a href="#Instalção">Instalação</a> • 
- <a href="#Como Usar">Como usar</a> • 
+ <a href="#Rodando o Back End (servidor)">Rodando o Back End (servidor)</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
 </p>
 
@@ -26,6 +26,12 @@ $ git clone <https://github.com/MatheusFSouza/teste_pratico_hellper>
 
 # Acesse a pasta do projeto no terminal powerShell do windows
 $ cd backend
+
+# Instale o express
+$ yarn add express
+
+# Instale tambem o nodemoon(como dependencia de desenvolvimento)
+$ yarn add nodemoon -D
 
 # Execute a aplicação uilizando
 $ yarn dev  ou  npm dev
