@@ -40,6 +40,21 @@ $ yarn dev  ou  npm dev
 $  S2 Back-end Started
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Para utilizar as rotas no insomnia use <http://localhost:3333/registers> e 
+<http://localhost:3333/registers/id> para update e delete.
+E coloque isso no create e update no insomnia para fazer os testes.
+{ 
+	"name": "Nome da pessoa",
+ "email": "test@hotmail.com",
+	"cpfoucnpj": "897546132",
+	"telephone": "987546123",
+	"cep": "123654",
+	"logradouro": "Logradouro",
+	"number": "152",
+	"neighborhood": "Jardim Bonito",
+	"city": "Sorocaba",
+	"state": "São Paulo"
+}
 ```
 
 ### Tecnologias
