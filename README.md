@@ -27,7 +27,7 @@ $ git clone <https://github.com/MatheusFSouza/teste_pratico_hellper>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd backend
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação uilizando
 $ yarn dev  ou  npm dev
 
 # o servidor assim que começar a funcionar deve mostar
